@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.csdn.net/m0_75233142?spm=1011.2415.3001.5343"
+          feed_list: "https://rss.csdn.net/m0_75233142/rss/map?spm=1001.2014.3001.5494"
