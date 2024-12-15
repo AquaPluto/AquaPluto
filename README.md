@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 
-**📕 &nbsp;**Latest Blog Posts [AquaPluto](https://blog.csdn.net/m0_75233142?type=blog)**
+📕 &nbsp;**Latest Blog Posts [AquaPluto](https://blog.csdn.net/m0_75233142?type=blog)**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
